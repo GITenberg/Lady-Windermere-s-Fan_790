@@ -1,0 +1,59 @@
+_repo: Lady-Windermere-s-Fan_790
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+description: "Lady Windermere's Fan, A Play About a Good Woman is a four-act comedy\
+  \ by Oscar Wilde, first produced 22 February 1892 at the St James's Theatre in London.\
+  \ The play was first published in 1893. Like many of Wilde's comedies, it bitingly\
+  \ satirizes the morals of society.\nThe story concerns Lady Windermere, who suspects\
+  \ that her husband is having an affair with another woman. She confronts him with\
+  \ it but although he denies it, he invites the other woman, Mrs Erlynne, to his\
+  \ wife's birthday ball. Angered by her husband's supposed unfaithfulness, Lady Windermere\
+  \ decides to leave her husband for another lover. After discovering what has transpired,\
+  \ Mrs Erlynne follows Lady Windermere and attempts to persuade her to return to\
+  \ her husband and in the course of this, Mrs Erlynne is discovered in a compromising\
+  \ position. It is then revealed Mrs Erlynne is Lady Windermere's mother, who abandoned\
+  \ her family twenty years before the time the play is set. Mrs Erlynne sacrifices\
+  \ herself and her reputation to save her daughter's marriage. The best known line\
+  \ of the play sums up the central theme:\n\nWe are all in the gutter, but some of\
+  \ us are looking at the stars.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1997-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '790'
+  wikidata: Q1469224
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage -- Drama'
+- !lcsh 'Mothers and daughters -- Drama'
+- !lcc 'PR'
+- !lcsh 'Aristocracy (Social class) -- Drama'
+title: Lady Windermere's Fan
+url: http://www.gutenberg.org/ebooks/790
+wikipedia:
+- https://fr.wikipedia.org/wiki/L%27%C3%89ventail_de_Lady_Windermere
+- https://nl.wikipedia.org/wiki/Lady_Windermere%27s_Fan
+- https://pt.wikipedia.org/wiki/O_leque_de_Lady_Windermere
+- https://pl.wikipedia.org/wiki/Wachlarz_Lady_Windermere
+- https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%AF%D8%A8%D8%B2%D9%86_%D8%AE%D8%A7%D9%86%D9%85_%D9%88%DB%8C%D9%86%D8%AF%DB%8C%D8%B1%D9%85%DB%8C%D8%B1
+- https://de.wikipedia.org/wiki/Lady_Windermeres_F%C3%A4cher
+- https://en.wikipedia.org/wiki/Lady_Windermere%27s_Fan
+- https://es.wikipedia.org/wiki/El_abanico_de_Lady_Windermere
+- https://bg.wikipedia.org/wiki/%D0%92%D0%B5%D1%82%D1%80%D0%B8%D0%BB%D0%BE%D1%82%D0%BE_%D0%BD%D0%B0_%D0%BB%D0%B5%D0%B9%D0%B4%D0%B8_%D0%A3%D0%B8%D0%BD%D0%B4%D1%8A%D1%80%D0%BC%D0%B8%D1%8A%D1%80
+- https://it.wikipedia.org/wiki/Il_ventaglio_di_Lady_Windermere
+- https://uk.wikipedia.org/wiki/%D0%92%D1%96%D1%8F%D0%BB%D0%BE_%D0%BB%D0%B5%D0%B4%D1%96_%D0%92%D1%96%D0%BD%D0%B4%D0%B5%D1%80%D0%BC%D1%96%D1%80
+- https://zh.wikipedia.org/wiki/%E6%B8%A9%E5%A4%AB%E4%BA%BA%E7%9A%84%E6%89%87%E5%AD%90
+- https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B5%D1%80_%D0%BB%D0%B5%D0%B4%D0%B8_%D0%A3%D0%B8%D0%BD%D0%B4%D0%B5%D1%80%D0%BC%D0%B8%D1%80
+- https://ca.wikipedia.org/wiki/El_ventall_de_Lady_Windermere
+- https://he.wikipedia.org/wiki/%D7%9E%D7%A0%D7%99%D7%A4%D7%AA%D7%94_%D7%A9%D7%9C_%D7%9C%D7%99%D7%99%D7%93%D7%99_%D7%95%D7%99%D7%A0%D7%93%D7%A8%D7%9E%D7%99%D7%A8
