@@ -1,5 +1,8 @@
 _repo: Lady-Windermere-s-Fan_790
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wilde, Oscar
@@ -26,6 +29,8 @@ description: "Lady Windermere's Fan, A Play About a Good Woman is a four-act com
   \ herself and her reputation to save her daughter's marriage. The best known line\
   \ of the play sums up the central theme:\n\nWe are all in the gutter, but some of\
   \ us are looking at the stars.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/790#Lady-Windermere-s-Fan
 gutenberg_issued: '1997-01-01'
 gutenberg_type: Text
 identifiers:
