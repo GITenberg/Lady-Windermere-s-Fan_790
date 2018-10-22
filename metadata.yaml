@@ -1,5 +1,5 @@
 _repo: Lady-Windermere-s-Fan_790
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -45,6 +45,7 @@ subjects:
 - !lcsh 'Mothers and daughters -- Drama'
 - !lcc 'PR'
 - !lcsh 'Aristocracy (Social class) -- Drama'
+- GITenberg
 title: Lady Windermere's Fan
 url: http://www.gutenberg.org/ebooks/790
 wikipedia:
